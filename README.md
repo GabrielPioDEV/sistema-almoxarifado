@@ -2,7 +2,7 @@
 
 Aplicação web para controle de estoque, rastreabilidade de movimentações, planejamento de consumo, relatórios financeiros e atendimento de chamados internos.
 
-> Status atual: planejamento concluído — início da Sprint 0.
+> Status atual: planejamento concluído — [Sprint 0](https://github.com/GabrielPioDEV/sistema-almoxarifado/issues/1) aberta.
 
 ## Objetivos
 
@@ -51,21 +51,21 @@ O projeto será desenvolvido como um **monólito modular**, mantendo a implanta�
 
 | Sprint | Entrega principal | Estado |
 | --- | --- | --- |
-| 0 | Ambiente, Git, Docker, PostgreSQL e CI | A iniciar |
-| 1 | Produtos e categorias | Backlog |
-| 2 | Autenticação e autorização | Backlog |
-| 3 | Entradas de estoque e preços | Backlog |
-| 4 | Retiradas, motivos e concorrência | Backlog |
-| 5 | Histórico, ajustes, estornos e auditoria | Backlog |
-| 6 | Estoque mínimo e dashboard | Backlog |
-| 7 | Planejamento e relatórios mensais | Backlog |
-| 8 | Permissões e administração | Backlog |
-| 9 | Suporte do requerente | Backlog |
-| 10 | Fila e painel do suporte | Backlog |
-| 11 | Qualidade, segurança e desempenho | Backlog |
-| 12 | Deploy e apresentação | Backlog |
+| [0](https://github.com/GabrielPioDEV/sistema-almoxarifado/issues/1) | Ambiente, Git, Docker, PostgreSQL e CI | A iniciar |
+| [1](https://github.com/GabrielPioDEV/sistema-almoxarifado/issues/2) | Produtos e categorias | Backlog |
+| [2](https://github.com/GabrielPioDEV/sistema-almoxarifado/issues/3) | Autenticação e autorização | Backlog |
+| [3](https://github.com/GabrielPioDEV/sistema-almoxarifado/issues/4) | Entradas de estoque e preços | Backlog |
+| [4](https://github.com/GabrielPioDEV/sistema-almoxarifado/issues/5) | Retiradas, motivos e concorrência | Backlog |
+| [5](https://github.com/GabrielPioDEV/sistema-almoxarifado/issues/6) | Histórico, ajustes, estornos e auditoria | Backlog |
+| [6](https://github.com/GabrielPioDEV/sistema-almoxarifado/issues/7) | Estoque mínimo e dashboard | Backlog |
+| [7](https://github.com/GabrielPioDEV/sistema-almoxarifado/issues/8) | Planejamento e relatórios mensais | Backlog |
+| [8](https://github.com/GabrielPioDEV/sistema-almoxarifado/issues/9) | Permissões e administração | Backlog |
+| [9](https://github.com/GabrielPioDEV/sistema-almoxarifado/issues/10) | Suporte do requerente | Backlog |
+| [10](https://github.com/GabrielPioDEV/sistema-almoxarifado/issues/11) | Fila e painel do suporte | Backlog |
+| [11](https://github.com/GabrielPioDEV/sistema-almoxarifado/issues/12) | Qualidade, segurança e desempenho | Backlog |
+| [12](https://github.com/GabrielPioDEV/sistema-almoxarifado/issues/13) | Deploy e apresentação | Backlog |
 
-As issues do repositório detalham a entrega, o estudo necessário e o critério de conclusão de cada sprint.
+As issues detalham a entrega, o estudo necessário e o critério de conclusão de cada sprint. Consulte também o [roadmap geral](https://github.com/GabrielPioDEV/sistema-almoxarifado/issues/14).
 
 ## Documentação
 
